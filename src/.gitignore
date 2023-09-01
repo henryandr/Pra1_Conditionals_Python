@@ -1,0 +1,18 @@
+# Ignorar la carpeta de configuración de PyCharm
+__pycharm__/
+
+# Otros archivos y carpetas generados por entornos de desarrollo o sistemas operativos
+.vscode/
+.idea/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+__MACOSX/
+.DS_Store
+.pytest_cache/
+./src/__pycache__/
+
+
+
+
